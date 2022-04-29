@@ -19,7 +19,7 @@ bash 0_MNIST-train-victim.sh
 ```bash
 bash 1_MNIST-train-predictor.sh
 ```
-# Step 2. Attacking the Victim RNN.
+# Step 2. Attacking the Victim RNN
 ```bash
 bash 2_MNIST-attack.sh <clairvoyant/greedy/predictive/IID_predictive> <lookahead> <GPU_NUM>
 ```
