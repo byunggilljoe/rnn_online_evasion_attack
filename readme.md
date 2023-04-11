@@ -1,5 +1,5 @@
 # Codes for "Online Evasion Attacks on Recurrent Models: The Power of Hallucinating the Future"
-This is a repository for a IJCAI 2022 "Codes for "Online Evasion Attacks on Recurrent Models: The Power of Hallucinating the Future"
+This is a repository for a IJCAI 2022 Codes for "Online Evasion Attacks on Recurrent Models: The Power of Hallucinating the Future"
 
 # Base Codes
 This repository includes the following repositories.
